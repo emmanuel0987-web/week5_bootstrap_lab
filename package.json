@@ -1,13 +1,6 @@
 {
-  "name": "johne",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": ""
+  "name": "expess",
+  "version": "0.0.1-security",
+  "description": "security holding package",
+  "repository": "npm/security-holder"
 }
